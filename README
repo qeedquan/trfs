@@ -1,0 +1,2 @@
+This is a FUSE implementation of a filesystem that translate
+spaces to something else, for acme.
